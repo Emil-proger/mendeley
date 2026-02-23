@@ -80,7 +80,7 @@
 
     _______________________________________________________________________________ -->
 	
-  <locale xml:lang="en">
+  <!-- <locale xml:lang="en">
     <terms>
       <term name="et-al"> [et al.]</term>
       <term name="and others"/>
@@ -98,7 +98,7 @@
       <term name="accessed" form="long">date accessed</term>
       <term name="online" form="long">text : electronic</term>
     </terms>
-  </locale>
+  </locale>  -->
   <locale xml:lang="ru">
     <terms>
       <term name="et-al"> [и др.]</term>
